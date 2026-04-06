@@ -25,9 +25,13 @@ This repository contains **three projects** that demonstrate key competencies fo
 
 ## Repository Structure
 Clinical-Data-Science-Portfolio/
+
 ├── Proyecto_1_PERG_EDA/
+
 ├── Proyecto_2_Predictivo/
+
 ├── Proyecto_3_Supervivencia_Causalidad/
+
 └── README.md
 
 
